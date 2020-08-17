@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ArushiWrite</title>
+    <link href="https://arushisinghm.github.io/ArushiSinghBlog/feed.xml" rel="self" />
+    <link href="https://arushisinghm.github.io/ArushiSinghBlog" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Mod</name>
+    </author>
+    <id>https://arushisinghm.github.io/ArushiSinghBlog</id>
+
+    <entry>
+        <title>Test Post </title>
+        <author>
+            <name>Mod</name>
+        </author>
+        <link href="https://arushisinghm.github.io/ArushiSinghBlog/test-post/"/>
+        <id>https://arushisinghm.github.io/ArushiSinghBlog/test-post/</id>
+
+        <updated>2020-08-17T17:30:21+05:30</updated>
+            <summary>
+                <![CDATA[
+                    this Post is only for testing and nothing more
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this Post is only for testing and nothing more</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
