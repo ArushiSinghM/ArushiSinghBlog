@@ -1,2 +1,1 @@
 # ArushiSinghBlog
-Arushi's Blog
