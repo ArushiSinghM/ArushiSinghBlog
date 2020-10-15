@@ -17,14 +17,16 @@
         <link href="https://arushisinghm.github.io/ArushiSinghBlog/test-post/"/>
         <id>https://arushisinghm.github.io/ArushiSinghBlog/test-post/</id>
 
-        <updated>2020-08-17T17:30:21+05:30</updated>
+        <updated>2020-10-15T17:29:13+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://arushisinghm.github.io/ArushiSinghBlog/media/posts/1/hint-icon.jpg" alt="" />
                     this Post is only for testing and nothing more
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://arushisinghm.github.io/ArushiSinghBlog/media/posts/1/hint-icon.jpg" alt="" />
                 <p>this Post is only for testing and nothing more</p>
             ]]>
         </content>
